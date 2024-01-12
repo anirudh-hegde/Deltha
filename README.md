@@ -1,3 +1,3 @@
 # Deltha
 
-The projecrt is implemented using spring-boot Java and Aiven.
+The project is implemented using spring-boot Java and Aiven.
